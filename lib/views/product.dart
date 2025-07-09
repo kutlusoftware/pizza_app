@@ -75,6 +75,7 @@ class _ProductState extends State<Product> {
             SizedBox(height: 20),
             Padding(
               padding: const EdgeInsets.all(8.0),
+
               child: Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
